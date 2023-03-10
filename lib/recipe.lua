@@ -88,7 +88,7 @@ local function GetLocalisedName(exchange)
   end
 end
 
--- @ item: String
+-- @ name: String
 local function GetItemIcon(name)
   local item = {
     icon = "__ore-merchant__/graphics/blank.png",
